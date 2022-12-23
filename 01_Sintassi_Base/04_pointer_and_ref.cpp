@@ -9,11 +9,11 @@ int main()
   p = &a;     // ora 'p' punta all'area di memoria di 'a'
 
   std::cout << "a=" << a   // a=1
-	    << " p=" << p        // p==xf1129ff70c 
+	    << " p=" << p        // p== xf1129ff70c 
 	    << " *p=" << *p      // *p=1
 	    << " r=" << r << std::endl;      // r=1
 
-  *p += 5;    // modifico i dati nell'area di memoria puntata da 'p'
+  *p += 5;    // modifico i dati nell'area di memoria puntata da 'p' 
 
   std::cout << "a=" << a
 	    << " p=" << p
