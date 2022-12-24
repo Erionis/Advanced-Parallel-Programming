@@ -1,0 +1,12 @@
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/01_variables.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/02_auto_and_decltype.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/03_blocks.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/04_pointer_and_ref.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/05_loops_and_conditions.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/06_const_and_pointers.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/07_basic_casts.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/08_memory_and_type.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/09_nullptr.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/10_pointer_arithmetics.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/edit_cache.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/01_Sintassi_Base/CMakeFiles/rebuild_cache.dir

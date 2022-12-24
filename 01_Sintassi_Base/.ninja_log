@@ -1,0 +1,21 @@
+# ninja log v5
+23	779	6935735314882879	CMakeFiles/05_loops_and_conditions.dir/05_loops_and_conditions.cpp.obj	8b347e9237983018
+19	799	6935735314982852	CMakeFiles/04_pointer_and_ref.dir/04_pointer_and_ref.cpp.obj	451c6f47fe40b656
+36	816	6935735315292776	CMakeFiles/07_basic_casts.dir/07_basic_casts.cpp.obj	fbb015e847c9eadc
+53	864	6935735315772662	CMakeFiles/09_nullptr.dir/09_nullptr.cpp.obj	e4fcbd94eef25c13
+28	913	6935735316142566	CMakeFiles/06_const_and_pointers.dir/06_const_and_pointers.cpp.obj	2ed959d0002c2dac
+11	924	6935735316272540	CMakeFiles/02_auto_and_decltype.dir/02_auto_and_decltype.cpp.obj	44671160e7dd0278
+7	953	6935735316582460	CMakeFiles/01_variables.dir/01_variables.cpp.obj	12731de1e0c951ad
+14	967	6935735316702421	CMakeFiles/03_blocks.dir/03_blocks.cpp.obj	fa2c0986401b3d2b
+44	1069	6935735317722166	CMakeFiles/08_memory_and_type.dir/08_memory_and_type.cpp.obj	c836be59850e2fa5
+816	1195	6935735318891869	07_basic_casts.exe	7f957a5a214a88d
+805	1200	6935735319011846	04_pointer_and_ref.exe	d7311b59328d5179
+787	1206	6935735319001842	05_loops_and_conditions.exe	38c8bf5c55e7c76d
+865	1213	6935735319151805	09_nullptr.exe	9062bfbdd28b511e
+78	1234	6935735319631686	CMakeFiles/10_pointer_arithmetics.dir/10_pointer_arithmetics.cpp.obj	2fe95750b2eb0078
+914	1267	6935735319791648	06_const_and_pointers.exe	f775d5b3b1aca74f
+924	1273	6935735319871632	02_auto_and_decltype.exe	e333feb4139cbf6d
+954	1311	6935735320311516	01_variables.exe	8e9c2e4ba2626b7e
+968	1320	6935735320431489	03_blocks.exe	e5b7cacb12b520e5
+1070	1374	6935735320991348	08_memory_and_type.exe	34b78854a086921e
+1234	1429	6935735321541200	10_pointer_arithmetics.exe	2dfd8e5347b6752e

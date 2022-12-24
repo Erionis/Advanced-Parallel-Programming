@@ -1,12 +1,12 @@
 #include <iostream>
 
-int mult(const int &a, const int &b)   // prima funzione `mult`
+int mult(const int &a, const int &b)   // prima funzione `mult` ,input due riferimenti a interi
 {
    std::cout << "int mult(const int &a, const int &b)" << std::endl;
    return a*b;
 }
 
-double mult(const double &a, const double &b)   // seconda funzione `mult`
+double mult(const double &a, const double &b)   // seconda funzione `mult`,  input due riferimenti a interi
 {
    std::cout << "double mult(const double &a, const double &b)" << std::endl;
    return a*b;
@@ -18,7 +18,7 @@ double mult(const double &a, const double &&b)   // terza funzione `mult`
    return a*b;
 }
 
-long mult(const long &a, const long &b)  // quarta funzione `mult`
+long mult(const long &a, const long &b)  // quarta funzione `mult` 
 {
    std::cout << "long mult(const long &a, const long &b) " << std::endl;
    return a*b;
@@ -52,7 +52,7 @@ int main()
 {
    int i_1{7}, i_2{-4};
    double d_1{7.2}, d_2{4.7};
-   long l_1{7l}, l_2{4l<<32};
+   long l_1{7l}, l_2{4l};
    float f{6.2};
    char c{2};
    
@@ -90,11 +90,11 @@ int main()
                                        // un puntatore a `char`: quinta funzione 
    }
 
-   std::cout << "Invoco test_tipo(NULL)... " ;
-   test_tipo(NULL);
+   //std::cout << "Invoco test_tipo(NULL)... " ;            // puntatore a niente ma NULL in realtà punta 0
+   //test_tipo(NULL);                                       // esegue void test_tipo(long a)  
 
-   std::cout << "Invoco test_tipo(nullptr)... ";
-   test_tipo(nullptr);
+   std::cout << "Invoco test_tipo(nullptr)... ";              //// questo è il motivo per cui in c++ esiste nullptr
+   test_tipo(nullptr);                                      // void test_tipo(void *a) 
 
   return 0;
 }

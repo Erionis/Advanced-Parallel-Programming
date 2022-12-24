@@ -54,31 +54,31 @@ int main() {
   constexpr unsigned int n_init{3};
 
   {
-    unsigned int n{n_init};
+    unsigned int n{n_init};    // unsigned int fact1(unsigned int n)
     std::cout << "pre-n=" << n
               << " fact1(n)=" << fact1(n)
-              << " post-n=" << n << std::endl;
+              << " post-n=" << n << std::endl;  // ottengo pre-n=3 fact1(n)=6 post-n=3
   }
 
   {
-    unsigned int n{n_init};
+    unsigned int n{n_init};    // unsigned int fact2(unsigned int& n)
     std::cout << "pre-n=" << n
               << " fact2(n)=" << fact2(n)
-              << " post-n=" << n << std::endl;
-  }
+              << " post-n=" << n << std::endl;  // ottengo pre-n=3 fact2(n)=6 post-n=0 perchè ho passato per riferimento
+  } // in nquesto modo evitiamo la copia durante i passaggi ed è piu veloce
 
   {
-    unsigned int n{n_init};
+    unsigned int n{n_init};    // unsigned int fact3(const unsigned int n)  con ciclo WHILE
     std::cout << "pre-n=" << n
               << " fact3(n)=" << fact3(n)
-              << " post-n=" << n << std::endl;
+              << " post-n=" << n << std::endl;  // ottengo pre-n=3 fact3(n)=6 post-n=3
   }
 
   {
-    unsigned int n{n_init};
+    unsigned int n{n_init};   // unsigned int fact3(const unsigned int n) con ciclo FOR
     std::cout << "pre-n=" << n
-              << " fact4(n)=" << fact3(n)
-              << " post-n=" << n << std::endl;
+              << " fact3-2(n)=" << fact3(n)
+              << " post-n=" << n << std::endl;   // pre-n=3 fact3-2(n)=6 post-n=3
   }
 
   {
@@ -89,10 +89,10 @@ int main() {
   }
 
   {
-    std::cout << "pre-n=" << 5
-              << " fact4(5)=" << fact4(5)    // OK: il parametro formale di fact4
+    std::cout << "pre-n=" << 5  // unsigned int fact4(const unsigned int& n)
+              << " fact4(5)=" << fact4(+2)    // OK: il parametro formale di fact4
                                              //     è costante   
-              << " post-n=" << 5 << std::endl;
+              << " post-n=" << 5 << std::endl;   // pre-n=5 fact4(5)=120 post-n=5
   }
 
   return 0;
