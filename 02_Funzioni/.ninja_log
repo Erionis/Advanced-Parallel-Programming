@@ -1,0 +1,24 @@
+# ninja log v5
+29	952	6937712869650355	CMakeFiles/05_function_pointers.dir/05_function_pointers.cpp.obj	dfd7482d4fdeff80
+13	813	6937712867890924	CMakeFiles/02_const_parameters.dir/02_const_parameters.cpp.obj	4eafd7ccee5b7b45
+35	847	6937712868220820	CMakeFiles/06_template.dir/06_template.cpp.obj	d8256f25fc5ef969
+8	881	6937712868820625	CMakeFiles/01_functions_parameters.dir/01_functions_parameters.cpp.obj	f58fe7316f67afc7
+21	898	6937712869010570	CMakeFiles/04_overloading.dir/04_overloading.cpp.obj	a2b720ea3323e20e
+60	935	6937712869480411	CMakeFiles/MCD_es1.dir/MCD_es1.cpp.obj	a6036300b5b1631c
+79	966	6937712869770325	CMakeFiles/hanoi.dir/hanoi.cpp.obj	8770cc6b004bfd14
+7	196	6937712981230613	build.ninja	c242b444a43a847b
+14	796	6937712988828156	CMakeFiles/03_auto_functions.dir/03_auto_functions.cpp.obj	9c694dc630e044c4
+7	819	6937712989218030	CMakeFiles/01_functions_parameters.dir/01_functions_parameters.cpp.obj	a712eddd05f700fc
+10	831	6937712989218030	CMakeFiles/02_const_parameters.dir/02_const_parameters.cpp.obj	17927ac391b145b1
+48	891	6937712989747865	CMakeFiles/hanoi.dir/hanoi.cpp.obj	c9d4475e4a7178fe
+22	1061	6937712991817203	CMakeFiles/05_function_pointers.dir/05_function_pointers.cpp.obj	335d8516b33a87de
+41	1099	6937712992247063	CMakeFiles/MCD_es1.dir/MCD_es1.cpp.obj	778bfcf83800296e
+18	1118	6937712992067117	CMakeFiles/04_overloading.dir/04_overloading.cpp.obj	3c094e455e0020fd
+28	1149	6937712992666926	CMakeFiles/06_template.dir/06_template.cpp.obj	2a30a23e2b37771f
+808	1258	6937712993686598	03_auto_functions.exe	f135c80b9db5aa0e
+891	1271	6937712993736584	hanoi.exe	57c06353c19e0079
+820	1275	6937712993996498	01_functions_parameters.exe	6af7de8ee593fe5b
+831	1275	6937712993956512	02_const_parameters.exe	4e13ca49d0e83928
+1061	1404	6937712995376057	05_function_pointers.exe	72c44ebba9d6e2be
+1100	1420	6937712995555998	MCD_es1.exe	6dd55055572dab61
+1124	1468	6937712996045848	04_overloading.exe	10baced874076b84

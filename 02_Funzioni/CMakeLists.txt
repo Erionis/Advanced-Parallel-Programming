@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.24)
 
 # set the project name and version
 project(02_functions)
@@ -16,3 +16,5 @@ foreach (sourcefile ${APP_SOURCES})
   add_executable(${execname} "${execname}.cpp")
 endforeach (sourcefile ${APP_SOURCES})
 
+# cmake .
+# cmake . -G Ninja

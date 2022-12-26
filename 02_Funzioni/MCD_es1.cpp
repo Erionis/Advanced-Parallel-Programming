@@ -1,16 +1,11 @@
 
 #include <iostream>
 
-/**
- * Calcolo il Massimo comun divisore
- * 
- * Calcolo il massimo comun divisore tra due numeri, cioè il massimo intero che divide entrambi.
- * Questa funzione implementa l'algoritmo di Euclide (metto url)
- * 
- * @param n è il primo dei due valori di cui il MCD è desiderato
- * @param m è il secondo dei due valori di cui il MCD è desiderato
- * @return unsigned int il massimo comun divisore 
-*/
+/// @brief Calcolo il massimo comun divisore tra due numeri, cioè il massimo intero che divide entrambi.
+/// Questa funzione implementa l'algoritmo di Euclide
+/// @param n è il primo dei due valori di cui il MCD �
+/// @param m è il secondo dei due valori di cui il MCD è desiderato
+/// @return unsigned int il massimo comun divisore 
 unsigned int MCD(const unsigned int n,const unsigned int m){
 
     if (n%m == 0) {
@@ -43,7 +38,7 @@ unsigned int mcm(const unsigned int n,const unsigned int m){
 unsigned int Fib_r(const unsigned int n){
 
     if (n<2){
-        return 0;
+        return n;
     }
     return Fib_r(n-1) + Fib_r(n-2);
 }
@@ -53,11 +48,11 @@ unsigned int Fib_r(const unsigned int n){
  * @param n è l'n-esimo numero di fibonacci
  * @return unsing int Fib(n)
 */
-unsigned int Fib_i(const unsigned int n){
+unsigned int Fib_i( unsigned int n){  
 
     unsigned int fib_0{0}, fib_1{1};
 
-    while (n-1 > 0){
+    while (n-- > 0){ // itero n volte
         // calcolo l'(i+2)-esimo di Fibonacci  partendo dall'i-esimo e dal (i+1)-esimo
         auto fib_2 =  fib_1 + fib_0;
         // salvo l'(i+1)-esimo numero in fib_0
@@ -69,14 +64,14 @@ unsigned int Fib_i(const unsigned int n){
     return fib_0;
 }
 
-/***********************************/
-
 int main(){
 
     unsigned int a{23} , b{14};
+
     std::cout << MCD(a,b) << std::endl;
     std::cout << mcm(a,b) << std::endl;
     std::cout << Fib_r(5) << std::endl;
+    std::cout << Fib_i(5) << std::endl;
 
     return 0;
 }
