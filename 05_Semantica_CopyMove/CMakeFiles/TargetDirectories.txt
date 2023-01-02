@@ -1,0 +1,7 @@
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/05_Semantica_CopyMove/CMakeFiles/esempio1.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/05_Semantica_CopyMove/CMakeFiles/esempio2_a.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/05_Semantica_CopyMove/CMakeFiles/esempio2_b.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/05_Semantica_CopyMove/CMakeFiles/rational.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/05_Semantica_CopyMove/CMakeFiles/esempio3.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/05_Semantica_CopyMove/CMakeFiles/edit_cache.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/05_Semantica_CopyMove/CMakeFiles/rebuild_cache.dir

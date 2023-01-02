@@ -3,7 +3,6 @@
 class C {
   friend std::ostream& operator<<(std::ostream& os, const C& a)
   {
-    (void)a;
 
     os << "::C";
 
@@ -19,7 +18,7 @@ void print_one()
 namespace A {
   class C {
     friend std::ostream& operator<<(std::ostream& os, const C& a) {
-      (void)a;
+
 
       os << "A::C";
 
@@ -35,7 +34,7 @@ namespace A {
 namespace B {
   class C {
     friend std::ostream& operator<<(std::ostream& os, const C& a) {
-      (void)a;
+
 
       os << "B::C";
 
