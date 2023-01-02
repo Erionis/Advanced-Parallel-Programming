@@ -1,0 +1,6 @@
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/04_Esercizi/CMakeFiles/rational.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/04_Esercizi/CMakeFiles/esercizio1.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/04_Esercizi/CMakeFiles/esercizio2.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/04_Esercizi/CMakeFiles/esercizio5.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/04_Esercizi/CMakeFiles/edit_cache.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/04_Esercizi/CMakeFiles/rebuild_cache.dir

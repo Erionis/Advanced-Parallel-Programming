@@ -1,0 +1,15 @@
+# ninja log v5
+11	502	6943985794332967	CMakeFiles/esercizio1.dir/esercizio1.cpp.obj	db73d437a736a8d4
+6	537	6943985794692856	CMakeFiles/rational.dir/rational.cpp.obj	2f56f8697e3396ad
+537	708	6943985796304613	librational.dll	ebac4fe0e157dcca
+537	708	6943985796304613	librational.dll.a	ebac4fe0e157dcca
+7	192	6943986982356299	esercizio1.exe	ab55e1dec0164be5
+11	457	6943987240267894	CMakeFiles/esercizio1.dir/esercizio1.cpp.obj	db73d437a736a8d4
+7	466	6943987240357871	CMakeFiles/rational.dir/rational.cpp.obj	2f56f8697e3396ad
+14	574	6943987241447517	CMakeFiles/esercizio2.dir/esercizio2.cpp.obj	1959d1cccbd0cc77
+466	649	6943987242097310	librational.dll	ebac4fe0e157dcca
+466	649	6943987242097310	librational.dll.a	ebac4fe0e157dcca
+18	690	6943987242597158	CMakeFiles/esercizio5.dir/esercizio5.cpp.obj	62abe5fd988e25d0
+575	777	6943987243356905	esercizio2.exe	34a02442ff9a8120
+649	837	6943987243976705	esercizio1.exe	ab55e1dec0164be5
+691	868	6943987244286605	esercizio5.exe	c20bbb305100cea6
