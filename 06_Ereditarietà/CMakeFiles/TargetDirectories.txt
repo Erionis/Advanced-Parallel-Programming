@@ -1,0 +1,9 @@
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/06_Ereditarietà/CMakeFiles/01_inheritance_type.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/06_Ereditarietà/CMakeFiles/02_dynamic_cast.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/06_Ereditarietà/CMakeFiles/03_multiple_inheritance.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/06_Ereditarietà/CMakeFiles/04_overriding_and_virtual.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/06_Ereditarietà/CMakeFiles/05_pure_virtual.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/06_Ereditarietà/CMakeFiles/06_virtual_destroyer.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/06_Ereditarietà/CMakeFiles/07_final_methods.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/06_Ereditarietà/CMakeFiles/edit_cache.dir
+C:/Users/Erion/Desktop/GIT/Advanced-Parallel-Programming/06_Ereditarietà/CMakeFiles/rebuild_cache.dir
