@@ -2,7 +2,7 @@
 #include <iostream> 
 #include <chrono>
 
-//#define MOVE_ON
+#define MOVE_ON
 
 #include "array_copy.hpp"
 

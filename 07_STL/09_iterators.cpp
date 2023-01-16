@@ -14,7 +14,7 @@ void move_iterator_test()
 
   std::cout << " v1: " << v1 << std::endl;
   std::cout << " v2: " << v2 << std::endl;
-
+  // reisco a spostare le cose da v2 a v1 usando l'iteratore
   typedef std::vector<double>::iterator VIter;
   std::copy ( std::move_iterator<VIter>(v2.begin()),
               std::move_iterator<VIter>(v2.end()),
